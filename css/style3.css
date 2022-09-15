@@ -1,0 +1,55 @@
+.container{
+    width: 500px;
+    height: 700px;
+    background-color:azure;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content{
+    padding: 0px 20px 0 20px;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+li{
+    list-style-type: none;
+    height: 40px;
+}
+
+.dark{
+    background-color:darkturquoise;
+}
+
+.light{
+    background-color: aqua;
+}
+
+.close{
+    background-color: gainsboro;
+}
+
+.text{
+    padding-bottom: 20px;
+    padding-left: 100px;
+    height: 40px;
+}
+
+.checkbox{
+    width: 30px;
+    height: 25px;
+    padding-top: 6px;
+    margin-left: -45px;
+}
+
+.text_content{
+    margin-top: -26px;
+    font-size:  20px;
+}
+
+.decor{
+    text-decoration: line-through;
+}
+

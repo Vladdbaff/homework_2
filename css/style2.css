@@ -1,0 +1,32 @@
+.container{
+    width: 810px;
+    height: 500px;
+}
+
+dt{
+    background-color:darkslategrey;
+    height: 30px;
+    color:#ffff;
+    text-transform: uppercase;
+}
+
+dd{
+    margin: 0;
+    height: 90px;
+    background-color: mediumaquamarine;
+    margin-bottom: 15px;
+    color:#ffff;
+    padding-top: 12px;
+    padding-left: 10px;
+}
+
+.head {
+    padding-left: 40px;
+    padding-top: 6px;
+}
+
+a{
+    font-size: 12px;
+    text-decoration: none;
+    color:saddlebrown;
+}

@@ -1,0 +1,31 @@
+.container{
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    background-color:hotpink;
+    border: 5px solid black;
+}
+
+.content{
+    padding-top: 7px;
+    width: 470px;
+    padding-right: 10px;
+}
+
+span{
+    background-color:darkorchid;
+    font-size: 18px;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+li{
+    margin-bottom: 12px;
+    background-color:deeppink;
+    height: 20px;
+    border: 1px solid black;
+}
